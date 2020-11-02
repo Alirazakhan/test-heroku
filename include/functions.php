@@ -1,5 +1,5 @@
 <?php 
-$main_site = 'http://localhost:81/task/';
+$main_site = 'https://secure-lake-82013.herokuapp.com/';
 define ('WP_HOME',$main_site);
 
 
