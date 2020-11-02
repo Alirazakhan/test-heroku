@@ -1,0 +1,95 @@
+
+  .attend{
+      background-color: #6da252;
+      color:white;
+    }
+  .not-attend{
+    background-color: yellow;
+
+    }
+  @media only screen and (min-width: 320px) and (max-width: 480px){
+    .col4{
+    padding-right: 15px!important;
+  }
+  .col8{
+    padding-left: 15px!important;
+  }
+  }
+  .col4{
+    padding-right: 0px;
+  }
+  .col8{
+    padding-left: 0px;
+  }
+    .set-card-body{
+          padding-left: 5px!important;
+          padding-right: 5px!important;
+          padding-top: 20px!important;
+          padding-bottom: 20px!important
+    }
+    .set-outer{
+      padding: 10px;
+      background: white;
+      border-radius: 6px;
+    }
+    .search-btn{
+      background: #6da252;
+      border-color: #6da25200;
+      box-shadow: 0 2px 2px 0 rgb(193, 193, 193), 0 3px 1px -2px rgb(241, 241, 241), 0 1px 5px 0 rgb(193, 193, 193);
+    }
+    .card{
+      background-color: #f9fafc;
+    }
+    .income-box{
+      height: 100%;
+      background: linear-gradient(87deg, #328aef 0, #66e8ff 100%) !important;
+      text-align: center;
+      font-size: 73px;
+      color: white;
+      border-radius: 5px;
+    }
+    .expenses-box{
+      height: 100%;
+      background: linear-gradient(87deg, #ef3232 0, #ff7d66 100%) !important;
+      text-align: center;
+      font-size: 73px;
+      color: white;
+      border-radius: 5px;
+    }
+    .profit-box{
+      height: 100%;
+      background: linear-gradient(87deg, #6da252 0, #b8d3a9 100%) !important;
+      text-align: center;
+      font-size: 73px;
+      color: white;
+      border-radius: 5px;
+    }
+    .customers-box{
+      height: 100%;
+      background: linear-gradient(87deg, #f6b200 0, #fcce5e87 100%) !important;
+      text-align: center;
+      font-size: 73px;
+      color: white;
+      border-radius: 5px;
+    }
+    .employees-box{
+      height: 100%;
+      background: linear-gradient(87deg, #58aaaf 0, #82e1a1 100%) !important;
+      text-align: center;
+      font-size: 73px;
+      color: white;
+      border-radius: 5px;
+    }
+    .card .card-title{
+      font-size: 16px!important;
+      color: black!important;
+    }
+    .rupe-set{
+      font-size: 16px!important
+    }
+    .form-group{
+      margin-bottom: 0.5rem;
+    }
+    .grid-margin{
+        margin-bottom: 0.6rem;
+    }
